@@ -1,0 +1,8 @@
+2023-06-30 09:45:55.873 [INFO ] com.example.demo.test.log4jTest[14 line] - info
+2023-06-30 09:45:55.882 [ERROR] com.example.demo.test.log4jTest[15 line] - error
+2023-06-30 09:45:55.883 [WARN ] com.example.demo.test.log4jTest[16 line] - warning
+2023-06-30 09:45:55.883 [APIINFO] com.example.demo.test.log4jTest[17 line] - apiInfo
+2023-06-30 09:46:46.145 [INFO ] com.example.demo.test.log4jTest[14 line] - info
+2023-06-30 09:46:46.153 [ERROR] com.example.demo.test.log4jTest[15 line] - error
+2023-06-30 09:46:46.154 [WARN ] com.example.demo.test.log4jTest[16 line] - warning
+2023-06-30 09:46:46.154 [APIINFO] com.example.demo.test.log4jTest[17 line] - apiInfo
